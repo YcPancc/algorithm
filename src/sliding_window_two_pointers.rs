@@ -1,2 +1,6 @@
+pub mod grumpy_bookstore_owner;
+pub mod k_radius_subarray_averages;
 pub mod maximum_average_subarray_i;
 pub mod maximum_number_of_vowels_in_a_substring_of_given_length;
+pub mod minimum_recolors_to_get_k_consecutive_black_blocks;
+pub mod number_of_sub_arrays_of_size_k_and_average_greater_than_or_equal_to_threshold;
