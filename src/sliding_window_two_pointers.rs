@@ -1,3 +1,4 @@
+pub mod check_if_a_string_contains_all_binary_codes_of_size_k;
 pub mod grumpy_bookstore_owner;
 pub mod k_radius_subarray_averages;
 pub mod maximum_average_subarray_i;
