@@ -1,7 +1,11 @@
 pub mod check_if_a_string_contains_all_binary_codes_of_size_k;
+pub mod defuse_the_bomb;
 pub mod grumpy_bookstore_owner;
 pub mod k_radius_subarray_averages;
 pub mod maximum_average_subarray_i;
 pub mod maximum_number_of_vowels_in_a_substring_of_given_length;
+pub mod maximum_points_you_can_obtain_from_cards;
+pub mod maximum_sum_of_almost_unique_subarray;
+pub mod maximum_sum_of_distinct_subarrays_with_length_k;
 pub mod minimum_recolors_to_get_k_consecutive_black_blocks;
 pub mod number_of_sub_arrays_of_size_k_and_average_greater_than_or_equal_to_threshold;
